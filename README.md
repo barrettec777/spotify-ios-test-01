@@ -1,1 +1,3 @@
 # spotify-ios-test-01
+
+Getting to know the Spotify iOS SDK... 
